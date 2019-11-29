@@ -15,7 +15,6 @@ public class Computer {
             if (numbers[i] == 0)
                 --i;
         }
-
     }
 
     public void compare_number(int[] user_numbers){
